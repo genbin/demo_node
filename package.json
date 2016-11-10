@@ -4,7 +4,10 @@
   "description": "practice for node",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "mongoose": "^4.6.6",
+    "mysql": "^2.12.0",
+    "redis": "^2.6.3"
   },
   "devDependencies": {},
   "scripts": {
